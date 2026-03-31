@@ -61,8 +61,8 @@ It allows students to submit complaints, track their status, and enables adminis
 | Anvi          | Backend Developer     | Developed APIs, server logic, authentication and complaint handling |
 | Gursimrat Kaur| Frontend Developer    | Designed UI, implemented student dashboard and forms                |
 | Gurleen Kaur  | Admin Panel Developer | Built admin dashboard and complaint management features             |
-| Gurmandeep Kaur| Database Manager      | Designed database schema and handled MySQL integration              |
-| Sahiba Sain   | Integration & Testing | Integrated frontend-backend and performed testing & debugging       |
+| Gurmandeep Kaur| Database Manager     | Designed database schema and handled MySQL integration              |
+| Sahiba Saini  | Integration & Testing | Integrated frontend-backend and performed testing & debugging       |
 
 ---
 
