@@ -15,6 +15,7 @@ const router = express.Router();
 
 // Admin Login
 router.post('/admin/login', adminLogin);
+//router.post('/admin/login', adminLogin);
 
 // Admin Routes (Protected)
 router.get('/admin/dashboard-stats', authMiddleware, getDashboardStats);
